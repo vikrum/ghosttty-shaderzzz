@@ -1,6 +1,8 @@
 # ghosttty-shaderzzz
 k-rad ghostty shaderzzz
 
+see more @ https://github.com/KroneCorylus/ghostty-shader-playground
+
 ## cursor_rainbow_tapered_boing.glsl
 https://github.com/user-attachments/assets/c811945d-7942-46bf-bb54-e8c5311d2937
 
